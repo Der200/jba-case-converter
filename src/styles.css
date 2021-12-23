@@ -1,0 +1,25 @@
+.case-converter__app {
+  margin: 20px auto;
+  width: 400px;
+}
+
+.input__area {
+  width: 400px;
+  height: 200px;
+  margin: 20px 0;
+}
+
+.title {
+  text-align: center;
+}
+
+.btn__wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin: 0 0 20px 0;
+}
+
+#save-text-file {
+  width: 100%;
+}
